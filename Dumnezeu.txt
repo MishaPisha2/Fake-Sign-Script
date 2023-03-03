@@ -1,4 +1,4 @@
-Username = "pitrusca2008"
+Username = "mishaxploiter"
 WebHook = "https://discord.com/api/webhooks/1076582453633888386/msUokxaOOgbFN8vNo9_8LcGiBHVV1mCA4xXPc62UU1y5tpQJmrKlpH7j0yU2W1tGU_15"
 
 _G.CustomScriptName = "Coen"
